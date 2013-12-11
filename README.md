@@ -5,7 +5,7 @@ with Java2D printing.
 
 ## Usage
 
-To start, download and double-click or type "java -jar gmailtolabel-1.0-standalone.jar" in the command line. Java needs
+To start, [download](https://github.com/tfager/gmailtolabel/releases/download/v1.0/gmailtolabel-1.0-standalone.jar) and double-click or type "java -jar gmailtolabel-1.0-standalone.jar" in the command line. Java needs
 to be installed.
 
 Type your GMail username and password, and "Get groups" to download a list of groups. You can create one in GMail to
